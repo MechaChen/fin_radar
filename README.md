@@ -61,6 +61,11 @@
 
 ## 🤖 第三階段：AI 整合（MCP）（約 1 週）
 
+reference:
+- https://www.youtube.com/watch?v=sMqlObpNz64&t=392s
+- https://www.youtube.com/watch?v=MC2BwMGFRx4
+- https://platform.openai.com/docs/api-reference/realtime-server-events/session/updated
+
 - **Day 19-20**
 
   - 學習並實作 Model Context Protocol (MCP)
